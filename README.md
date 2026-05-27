@@ -199,6 +199,20 @@ A. П. ЧЕХОВ. ИЗБРАННОЕ
 <img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/a2147bfc-2e7d-407e-a607-3caad8ebe2df" />
 <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/3369fe50-0328-4ca1-8974-d0c0b072cf20" />
 
+.
+
+.
+
+.
+
+небольшой гайд по печатке:
+
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/a070b94f-4ecf-4648-9a36-7dc92b5cacdd" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/d8300f1b-802d-4af7-bfe0-6518577bdb4e" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/12f543fe-1d22-4d11-b29e-a2326c88b1a0" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/73389592-b146-41ee-a7d3-1f72283393e1" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/d509ac37-4d9e-4599-af4d-dca5acb806f2" />
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/bf4d6b22-4388-400a-80c3-fc4589c722db" />
 
 
 
